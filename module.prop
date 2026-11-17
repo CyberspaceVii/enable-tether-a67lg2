@@ -1,0 +1,7 @@
+id=enable_tether_a67lg2
+name=Enable Tether
+version=v0.1
+versionCode=1
+author=CyberspaceVII
+banner=https://raw.githubusercontent.com/CyberspaceVii/enable-tether-a67lg2/main/banner.png
+description=Enables hotspot sharing through the regular mobile data APN on the Foxxd A67L Gen 2. Skips the Android carrier provisioning check and adjusts hotspot-only APNs. Remove and reboot to restore saved APN settings.
